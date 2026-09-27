@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Dependencies & Build Outputs
+node_modules
+dist
+dist-ssr
+*.local
+
+# Virtual Environments & Env Files
+.venv/
+backend/.venv/
+venv/
+.env
+.env.local
+__pycache__/
+*.py[cod]
+
+# System & IDE
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
